@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@media (max-width: 576px) { /*HP*/
+  #title-header {
+    font-size: 2rem; 
+  }
+
+  #warning-header {
+    font-size: 1.2rem;
+  }
+
+  #content-header {
+    font-size: 1rem;
+  }
+
+  #btn-tag, #tag {
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  #title-buy {
+    font-size: 1.5rem;
+  }
+
+  #caption-buy {
+    font-size: 1.2rem;
+  }
+
+  #btn-payment {
+    font-size: 1.2rem;
+    width: 100%;
+  }
+
+  #guarantee {
+    width: 90%;
+  }
+
+  #content {
+      font-size: 1rem;
+  }
+
+  #content-point {
+    font-size: 1rem;
+  }
+
+  #content-caption {
+    font-size: 1.2rem;
+  }
+
+  #title-booster {
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  #extended-bonus {
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    align-items: center;
+  }
+
+  #tag-warning {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+
+  #ribbon {
+    width: 15%;
+    font-size: 1rem;
+    padding: 3px;
+    position: absolute;
+    right: -15px;
+    top: -10px;
+    text-align: center;
+    border-radius: 25px;
+    transform: rotate(30deg);
+    background-color: #ff9800;
+    color: white;
+  }
+
+  #btn-cancel {
+    font-size: 0.8rem;
+    width: 40%;
+  }
+
+  #btn-buy {
+    font-size: 1rem;
+  }
+
+}
+
+@media (min-width: 768px) { /*Laptop*/
+  #title-header {
+      font-size: 4rem;
+  }
+
+  #warning-header {
+    font-size: 2rem;  
+  }
+
+  #btn-tag, #tag {
+    font-size: 1.5rem;
+    width: 100%;
+  }
+
+  #title-buy {
+    font-size: 3rem;
+  }
+
+  #caption-buy {
+    font-size: 2rem;
+  }
+
+  #btn-payment {
+    font-size: 2.5rem;
+    width: 80%;
+  }
+
+  #guarantee {
+    width: 50%;
+  }
+
+  #content {
+    font-size: 1.5rem;
+  }
+
+  #content-point {
+    font-size: 1.5rem;
+  }
+
+  #content-caption {
+    font-size: 2rem;
+  }
+
+  #title-booster {
+    font-size: 2rem;
+    width: 70%;
+  }
+
+  #tag-warning {
+    width: 50%;
+    font-size: 1.3rem;
+  }
+
+  #ribbon {
+    width: 15%;
+    font-size: 1rem;
+    padding: 4px;
+    position: absolute;
+    right: -30px;
+    top: -10px;
+    text-align: center;
+    border-radius: 25px;
+    transform: rotate(30deg);
+    background-color: #ff9800;
+    color: white;
+  }
+
+  #btn-cancel {
+    font-size: 1.2rem;
+    width: 20%;
+  }
+
+  #btn-buy {
+    font-size: 1.5rem;
+  }
+
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.btn {
+    width: 199px;
+}
+
+.parallax {
+    background: #000;
+    background: linear-gradient(
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.6)
+    ),
+    url(../img/pattern_japanese-pattern-3_1_2_0-0_0_1__050505_10100e.png);
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-2 {
+    background: #fff;
+    background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.8)
+     ),
+     url(../img/pattern_geometric-7_9_4_0-0_135_2__f4e7e7_dedede_eedbdb.png);
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #btn-tag {
+    background-color: #fbfbfb;
+    color: 332D2D;
+  }
+
+  #btn-tag:hover {
+    background-color: #3B71CA;
+    color: #fbfbfb;
+  }
+
+  #btn-cancel:hover {
+    background-color: #DC4C64;
+    color: #fbfbfb;
+  }
+
+  #btn-payment {
+    background-color: #E4A11B;
+    color: #fbfbfb;
+    transition: transform 0.5s ease;
+  }
+
+  #btn-payment:hover {
+    background-color: #DC4C64;
+    color: #fbfbfb;
+    transform: translateY(-5px);
+  }
+
+  #btn-buy {
+    transition: transform 0.3s ease-in-out; 
+    background-color: #E4A11B;
+    color: #fbfbfb;
+  }
+
+  #btn-buy:hover {
+    transform: scale(1.1);
+    background-color: #DC4C64;
+    color: #fbfbfb;
+  }
+
+  .ribbon {
+    width: 15%;
+    font-size: 14px;
+    padding: 4px;
+    position: absolute;
+    right: -30px;
+    top: -10px;
+    text-align: center;
+    border-radius: 25px;
+    transform: rotate(30deg);
+    background-color: #ff9800;
+    color: white;
+  }
+
+  /* .background-card {
+    background: url(../img/pattern_triangles-23_1_4_0-0_10_1__ffffff_edeedd_e0edd9.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+  }  */
+
+  @keyframes flash {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .blinking {
+    animation: flash 0.5s infinite; 
+  }
