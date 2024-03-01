@@ -24,34 +24,33 @@
     <div class="parallax">
         <div class="container vh-100 d-flex flex-column justify-content-center align-items-center">
             <h3 id="warning-header" class="text-white text-center poppins-bold fst-italic mb-5 py-3">
-                Upgrade To The
-                <span class="text-warning">"EXTENDED Pack"</span>
+                Don't Miss This Latest Offer... You Won't See This Again!!
             </h3>
             <h1 id="title-header" class="text-white text-center poppins-bold px-5">
-                DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with
-                <span class="text-warning text-decoration-underline">"Un-Restricted" PLR License </span>
-                to Make You Able to Double The Profits Without Any Restriction!!
+                Get The Incredible
+                <span class="text-warning">Easter Niche Bundle</span>
+                "Extended Business Pack" with
+                <span class="text-warning text-decoration-underline">$10 More Discount!!</span>
             </h1>
         </div>
 
         <div class="container p-3">
             <div class="d-flex align-items-center justify-content-center">
-                <h3 id="content-header" class="border border-warning border-3 text-center p-3 mb-5 mt-5 rounded-4 text-warning">
-                    You'll Receive
-                    <span class="text-decoration-underline poppins-bold">Extended PLR License</span>
-                    for Both
-                    <span class="poppins-bold">Main Product + This Upgrade Pack</span>
+                <h3 id="content-header" class="border border-light border-3 text-center p-3 mb-5 mt-5 rounded-4 text-light">
+                    You'll Still Receive All the Items in the Previous Page + PLR License...
+                    <span class="poppins-bold">MINUS the Reseller Kit & The Bonuses</span>
                 </h3>
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <img src="img/MockupColoringBook.png" alt="" width="100%;">
+                <img id="img" src="img/downsell 1.png" alt="">
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <h1 id="title-buy" class="text-center mt-5 text-light poppins-bold">Grab Adult Coloring
+                <h1 id="title-buy" class="text-center mt-5 text-light poppins-bold">
+                    Grab the
                     <span class="text-warning">"EXTENDED Pack"</span>
-                    And Start Make
+                    Easter Niche Bundle and Start Making
                     <span class="text-decoration-underline">MORE Money</span>
                     Today!
                 </h1>
@@ -63,7 +62,7 @@
             </h3>
 
             <div class="container d-flex flex-column align-items-center justify-content-center my-5">
-                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#" role="button">
+                <a id="btn-payment" class="btn fw-bold rounded-pill mb-3 p-4" href="#" role="button">
                     Get Instant Access Now
                 </a>
                 <img id="guarantee" src="img/30-guarantee.webp" alt="">
@@ -76,42 +75,41 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 me-md-5">
 
-                    <h5 id="content" class="mb-4">As my brand new valuable customer, I’d like to offer you an outrageous 45% discount for the
-                        <span class="poppins-bold">Adult Coloring Books “EXTENDED” Upgrade Pack!.</span><br><br>
-
-                        With this EXTENDED upgrade, you can get additional Stunning and Pro-Looking Templates and take your viral marketing to the next level.<br><br>
-
-                        This exclusive upgrade
-                        <span class="poppins-bold">consists of 3 key profit boosters:</span>
+                    <h5 id="content" class="mb-4">
+                        <span class="poppins-bold">With an Additional $10 Discount,</span>
+                        You'll Still Receive
+                        <span class="poppins-bold">PLR License</span>
+                        for All Items in Your Previous Purchase and the Main Package You've Acquired.
+                        <br><br>
+                        If Your Previous Purchase of the "Easter Niche Bundle" was Limited to Commercial or Re-Selling Rights, This is Your Opportunity to Upgrade to Unrestricted PLR for All Included Items.
+                        <br><br>
+                        Furthermore, Gain Access to Double the Templates Featured on This Page.
+                        <br><br>
+                        In Keeping with Fairness to Our Previous Buyers Who Paid Full Price, We'll Exclusively
+                        <span class="text-danger">Remove the Re-Seller Marketing Kit and the Bonuses from This Discounted Offer!</span>
+                        <br><br>
                     </h5>
 
                     <div id="content-point" class="d-flex align-items-center">
-                        <i class="fas fa-check-circle me-3"></i>
-                        <span class="poppins-bold">BOOSTER #3 :
-                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
+                        <i class="fas fa-check-circle me-3 text-danger"></i>
+                        <span class="poppins-bold">BOOSTER #1 :
+                            <span class="text-warning ms-2">"Un-Restricted" PLR License</span>
                     </div>
                     <div id="content-point" class="d-flex align-items-center">
-                        <i class="fas fa-check-circle me-3"></i>
-                        <span class="poppins-bold">BOOSTER #3 :
-                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
-                    </div>
-                    <div id="content-point" class="d-flex align-items-center">
-                        <i class="fas fa-check-circle me-3"></i>
-                        <span class="poppins-bold">BOOSTER #3 :
-                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
+                        <i class="fas fa-check-circle me-3 text-danger"></i>
+                        <span class="poppins-bold">BOOSTER #2 :
+                            <span class="text-warning ms-2">Extra Easter Niche Bundle</span>
                     </div>
                 </div>
 
                 <div class="col-lg-5 col-md-6 col-sm-12">
-                    <img src="img/MockupColoringBook2.png" alt="" width="100%">
+                    <img src="img/10-Discount-PNG-Image.png" alt="" width="100%">
                 </div>
 
             </div>
 
             <h3 id="content-caption" class="text-center mt-5 pb-5">
-                This Outrageous Offer May Changed Any Time<br>
-                <span class="text-center poppins-bold">Please... Pay Very Close ATTENTION!</span><br><br>
-                Let’s Go Through Each One. You’ll Be Blown Away!
+                Below Are What You Get With $10 More Discount
             </h3>
 
         </div>
@@ -126,12 +124,20 @@
         <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
 
         <div class="row mt-3 d-flex align-items-center">
-            <div class="col-md-5 mb-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+            <div class="col-md-6 mb-5">
+                <img src="img/UN - RESTRI.png" alt="" width="100%">
             </div>
-            <div class="col-md-6 me-5">
+            <div class="col-md-6">
                 <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
-                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                    You can
+                    <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
+
+                    <span class="poppins-bold text-danger">NO LIMITATION..!!</span><br><br>
+                    <span class="poppins-bold">The only limit is just your imagination!!</span><br><br>
+                    Just ONE sale could earn you back your investment and more! <br><br>
+                    We know how lucrative the graphics business is! We’ve carved out a 6 figure annual income, creating premium graphics for our customers! <br>
+                    NOW YOU can put all of our experience to work for you!
+                </h5>
             </div>
         </div>
     </div>
@@ -139,18 +145,26 @@
     <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
 
         <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
-            BOOSTER #2 : Extra Creative Quotes Designs
+            BOOSTER #2 : Extra Easter Niche Bundle
         </div>
 
-        <h4 id="content-caption" class="text-center poppins-bold my-5">690+ Extra Coloring Pages</h4>
+        <h4 id="content-caption" class="text-center poppins-bold my-5">Extra Easter Niche Bundle</h4>
 
         <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-6 me-5">
-                <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
-                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                <h5 id="content">Upgrade to our
+                    'EXTENDED Pack'
+                    version and unlock a treasure trove of exclusive designs and assets that are
+                    <span class="poppins-bold">100% UNIQUE and DISTINCT</span>
+                    from the Main Package. <br><br>
+                    These exclusive contents are reserved only for our valued new customers who have purchased the Regular version. <br><br>
+                    Expect super
+                    <span class="poppins-bold">UNIQUE & FRESH</span>
+                    content that will make your Easter promotions stand out and captivate your audience like never before!
+                    <br><br>
             </div>
             <div class="col-md-5 mb-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+                <img src="img/downsell 1.png" alt="" width="100%">
             </div>
         </div>
     </div>
@@ -168,35 +182,85 @@
             <div class="row justify-content-center mt-5 text-center">
                 <div class="col-md-6 mb-3 mb-md-0">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        15 Different Categories!
+                        5 Different Categories!
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        690+ Creative Designs!
+                        35+ Creative Designs!
                     </div>
                 </div>
             </div>
 
             <h4 class="text-center poppins-bold mt-5">Let Me Show You What You'll Get Inside This Special "EXTENDED" Business Pack!</h4>
         </div>
+
         <div class="d-flex align-item-center justify-content-center">
-            <a href="#booster3" class="link-dark"><i class="fas fa-arrow-circle-down fs-1 mb-5"></i></a>
+            <a href="#extended-bonus" class="link-dark"><i class="fas fa-arrow-circle-down fs-1 mb-5"></i></a>
         </div>
     </div>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #1
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h5 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h5>
+                    <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
+                    <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
+                </div>
+                <div class="col-md-5 mt-3">
+                    <img src="img/svg/3.png" alt="" width="100%">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax-2">
+        <div class="container pt-5 pb-5">
+            <div class="row align-items-stretch mt-4">
+                <?php
+                function displayImagesSVG($directory)
+                {
+                    $count = 0;
+                    if ($handle = opendir($directory)) {
+                        while (false !== ($file = readdir($handle))) {
+                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
+                                if ($count < 12) {
+                                    echo '<div class="col-md-4 mb-4">';
+                                    echo '<div class="card border-0 bg-transparent h-100">';
+                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
+                                    echo '</div>';
+                                    echo '</div>';
+                                    $count++;
+                                } else {
+                                    break;
+                                }
+                            }
+                        }
+                        closedir($handle);
+                    }
+                }
+                displayImagesSVG('img/svg');
+                ?>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                        EXTENDED BONUS #2
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Coloring Book Bundle for Kids with Cover Books</h1>
+                    <h4 class="mt-3 text-light">35 Set Of Ready To Publish Coloring Books</h4>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <img src="img/coloring-book/3.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -213,8 +277,8 @@
                         while (false !== ($file = readdir($handle))) {
                             $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
                             if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 14) {
-                                    echo '<div class="col-md-12 mb-4">';
+                                if ($count < 12) {
+                                    echo '<div class="col-md-6 mb-4">';
                                     echo '<div class="card shadow-sm border-0 rounded-3 h-100">';
                                     echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
                                     echo '</div>';
@@ -237,88 +301,172 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #2
+                        EXTENDED BONUS #3
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
-                </div>
-                <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
-                </div>
+                    <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes For Feed</h1>
+                    <h4 class="mt-3 text-light"> 35 Viral Posts and Quotes</h4>
+            </div>
+            <div class="col-md-5 mb-5 mt-3">
+                <img src="img/quote/1.png" alt="" width="100%">
             </div>
         </div>
     </div>
 
-    <div class="parallax-2">
-        <div class="container pt-5 mb-5">
-            <div class="card shadow rounded-3">
-                <img src="https://via.placeholder.com/400x250" alt="" class="rounded-3">
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow rounded-3 h-100">
-                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
-                    </div>
+    <div class="parallax-2 d-flex justify-content-center">
+        <div id="carouselExampleAutoplaying" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/quote/7.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
                 </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow rounded-5 h-100">
-                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
-                    </div>
+                <div class="carousel-item">
+                    <img src="img/quote/8.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/quote/9.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item active">
+                    <img src="img/quote/1.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item active">
+                    <img src="img/quote/2.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
                 </div>
             </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
     </div>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #3
+                        EXTENDED BONUS #4
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
-            </div>
-            <div class="col-md-5 mb-5 mt-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
+                    <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
+                </div>
+                <div class="col-md-5 mb-5 mt-5">
+                    <img src="img/story/2.png" alt="" width="100%">
+                </div>
             </div>
         </div>
     </div>
+
+    <div class="parallax-2 d-flex justify-content-center">
+        <div id="carouselExampleAutoplaying2" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/story/2.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/3.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/4.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/6.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/7.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/8.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/9.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                        EXTENDED BONUS #5
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Viral Videos From TikTok</h1>
+                    <h4 class="mt-3 text-light">35 Viral Videos from TikTok</h4>
+                </div>
+                <div class="col-md-5 mb-5 mt-5">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="parallax-2">
         <div class="container pt-5 pb-5">
             <div class="row align-items-stretch mt-4">
-                <?php
-                function displayImagesQuote($directory)
-                {
-                    $count = 0;
-                    if ($handle = opendir($directory)) {
-                        while (false !== ($file = readdir($handle))) {
-                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 15) {
-                                    echo '<div class="col-md-4 mb-4">';
-                                    echo '<div class="card shadow-sm border-0 rounded-3">';
-                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
-                                    echo '</div>';
-                                    echo '</div>';
-                                    $count++;
-                                } else {
-                                    break;
-                                }
-                            }
-                        }
-                        closedir($handle);
-                    }
-                }
-                displayImagesQuote('img/quote');
-                ?>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
+
 
     <div class="parallax">
         <div class="container d-flex flex-column align-items-center justify-content-center">
@@ -333,9 +481,9 @@
         <div class="container mt-5 d-flex flex-column align-items-center justify-content-center">
             <div class="row mb-5">
                 <div class="col-sm-6 mb-3 mb-sm-0">
-                    <div class="card border-0 h-100 rounded-5">
-                        <div class="card-body">
-                            <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <div class="card border-0 h-100 rounded-5 bg-transparent">
+                        <div class="card-body d-flex justify-content-center align-items-center">
+                            <img src="img/downsell 1.png" alt="" width="140%">
                         </div>
                     </div>
                 </div>
@@ -346,70 +494,58 @@
                             Un-Restricted PLR​
                         </div>
                         <div class="card-body text-center p-5">
-                            <div class="text-start">
+                            <div id="content-buy" class="text-start">
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         690+ Additional Stunning Coloring Pages
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         Un-Resricted PLR License for ALL Package
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
-                                        Completes RE-SELLER TOOLKIT
-                                    </span>
-                                </div>
-                                <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
-                                        3 Usefull BONUSES
-                                    </span>
-                                </div>
-                                <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         Use in UNLIMITED Video Projects You Own
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         Use in UNLIMITED Projects for Your Clients </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         You can Re-Edit, Re-Name, Re-Package, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose! </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         You can sell UNLIMITED copies in any price and any place, then keep all of the money for your self </span>
                                 </div>
                             </div>
 
-                            <p style="font-size: 0.8rem;" class="mt-5">*You Can Check Complete Rights In The License Document You'll Receive Inside</p>
+                            <p style="font-size: 0.8rem;" class="mt-3">*You Can Check Complete Rights In The License Document You'll Receive Inside</p>
                             <h3 class="poppins-bold mt-5">Get The LOWEST Price Today with Discount!</h3>
 
                             <div class="row mt-3">
                                 <div class="col-sm-6 mb-3 mb-sm-0">
-                                    <p class="text-decoration-line-through" style="font-size: 1rem;">Regular Price: $67.67</p>
+                                    <p class="text-decoration-line-through" style="font-size: 1rem;">Regular Price: $37.97</p>
                                 </div>
                                 <div class="col-sm-6">
-                                    <h5 class="text-danger poppins-bold blinking" style="font-size: 1.5rem;">Today: $37.67</h5>
+                                    <h5 class="text-danger poppins-bold blinking" style="font-size: 1.5rem;">Today: $27.47</h5>
                                 </div>
 
                             </div>
 
-                            <a id="btn-buy" class="btn p-3 fw-bold rounded-3 position-relative text-white mb-3" href="#" role="button" style="width: 100%;">
-                                <i class="fas fa-shopping-cart position-absolute start-0 top-50 translate-middle-y ms-5"></i>
-                                ADD TO CART
+                            <a id="btn-buy" class="btn p-3 fw-bold rounded-3 position-relative bg-danger text-white fs-5 mb-3" href="#" role="button" style="width: 100%;">
+                                <i class="fas fa-shopping-cart position-absolute start-0 top-50 translate-middle-y ms-5" style="color: white;"></i>
+                                BUY NOW
                             </a>
 
                             <img src="img/scure-guarantee2.webp" alt="" width="80%">
@@ -425,6 +561,35 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            setInterval(function() {
+                var randomName = getRandomName();
+                var toastMessage = "Terima kasih " + randomName + " telah membeli";
+                showCustomToast(toastMessage);
+            }, 60000);
+        });
+
+        function getRandomName() {
+            var names = [
+                "Andi",
+                "Budi",
+                "Citra",
+                "Dian",
+                "Eko",
+                "Fita"
+            ];
+            var randomIndex = Math.floor(Math.random() * names.length);
+            return names[randomIndex];
+        }
+
+        function showCustomToast(message) {
+            var toast = new bootstrap.Toast(document.getElementById('liveToast'));
+            var toastBody = document.querySelector('#liveToast .toast-body');
+            toastBody.textContent = message;
+            toast.show();
+        }
+    </script> -->
 </body>
 
 </html>
