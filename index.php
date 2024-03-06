@@ -108,7 +108,7 @@
 
             </div>
 
-            <h3 id="content-caption" class="text-center mt-5 pb-5">
+            <h3 id="content-caption" class="text-center poppins-bold mt-5 pb-5">
                 Below Are What You Get With $10 More Discount
             </h3>
 
@@ -124,10 +124,10 @@
         <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
 
         <div class="row mt-3 d-flex align-items-center">
-            <div class="col-md-6 mb-5">
-                <img src="img/UN - RESTRI.png" alt="" width="100%">
+            <div class="col-md-5 mb-5">
+                <img src="img/UN - RESTRI.png" alt="" width="80%">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
                     You can
                     <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
@@ -148,7 +148,7 @@
             BOOSTER #2 : Extra Easter Niche Bundle
         </div>
 
-        <h4 id="content-caption" class="text-center poppins-bold my-5">Extra Easter Niche Bundle</h4>
+        <h4 id="content-caption" class="text-center poppins-bold my-5">200++ Extra Easter Niche Bundle</h4>
 
         <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-6 me-5">
@@ -187,7 +187,7 @@
                 </div>
                 <div class="col-md-6">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        35+ Creative Designs!
+                        200++ Creative Designs!
                     </div>
                 </div>
             </div>
@@ -203,15 +203,15 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #1
+                <div id="extended-bonus1" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-5">
+                        EXTENDED MODULE #1
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
                     <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
                 </div>
-                <div class="col-md-5 mt-3">
-                    <img src="img/svg/3.png" alt="" width="100%">
+                <div class="col-md-5">
+                    <img id="extended-img1" src="img/svg/2.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -253,7 +253,7 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
                         EXTENDED BONUS #2
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Coloring Book Bundle for Kids with Cover Books</h1>
@@ -266,55 +266,54 @@
         </div>
     </div>
 
-    <div class="parallax-2">
-        <div class="container pt-5 pb-5">
-            <div class="row align-items-stretch mt-4">
-                <?php
-                function displayImagesColoring($directory)
-                {
-                    $count = 0;
-                    if ($handle = opendir($directory)) {
-                        while (false !== ($file = readdir($handle))) {
-                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 12) {
-                                    echo '<div class="col-md-6 mb-4">';
-                                    echo '<div class="card shadow-sm border-0 rounded-3 h-100">';
-                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
-                                    echo '</div>';
-                                    echo '</div>';
-                                    $count++;
-                                } else {
-                                    break;
-                                }
+    <div class="container-fluid pt-5 pb-5">
+        <div class="row align-items-stretch mt-4">
+            <?php
+            function displayImagesColoring($directory)
+            {
+                $count = 0;
+                if ($handle = opendir($directory)) {
+                    while (false !== ($file = readdir($handle))) {
+                        $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                        if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
+                            if ($count < 12) {
+                                echo '<div class="col-md-6 mb-4">';
+                                echo '<div class="card border-0 rounded-3 h-100">';
+                                echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
+                                echo '</div>';
+                                echo '</div>';
+                                $count++;
+                            } else {
+                                break;
                             }
                         }
-                        closedir($handle);
                     }
+                    closedir($handle);
                 }
-                displayImagesColoring('img/coloring-book');
-                ?>
-            </div>
+            }
+            displayImagesColoring('img/coloring-book');
+            ?>
         </div>
     </div>
 
-    <div class="bg-dark">
+    <div id="extended-bg-3" class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #3
+                <div id="extended-bonus3" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
+                        EXTENDED MODULE #3
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes For Feed</h1>
-                    <h4 class="mt-3 text-light"> 35 Viral Posts and Quotes</h4>
-            </div>
-            <div class="col-md-5 mb-5 mt-3">
-                <img src="img/quote/1.png" alt="" width="100%">
+                    <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes</h1>
+                    <h4 class="mt-3 text-light">35 Viral Posts and Quotes</h4>
+                </div>
+                <div class="col-md-5 mt-3">
+                    <img id="extended-img3" src="img/quote/1.png" alt="" width="100%">
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="parallax-2 d-flex justify-content-center">
+    <div class="d-flex justify-content-center bg-white">
         <div id="carouselExampleAutoplaying" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -347,15 +346,15 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                <div id="extended-bonus4" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
                         EXTENDED BONUS #4
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
                     <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
                 </div>
-                <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/story/2.png" alt="" width="100%">
+                <div class="col-md-5 mt-3 mb-3">
+                    <img id="extended-img4" src="img/story/2.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -400,15 +399,15 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                <div id="extended-bonus5" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
                         EXTENDED BONUS #5
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">Viral Videos From TikTok</h1>
-                    <h4 class="mt-3 text-light">35 Viral Videos from TikTok</h4>
+                    <h1 class="mt-3 text-light poppins-bold">Easter Viral Videos</h1>
+                    <h4 class="mt-3 text-light">35 Easter Viral Videos</h4>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    <iframe id="extended-img5" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
                 </div>
             </div>
         </div>
@@ -418,49 +417,49 @@
         <div class="container pt-5 pb-5">
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
                     </div>
                 </div>
             </div>

@@ -94,6 +94,35 @@
   #content-buy {
     font-size: 1.2rem;
   }
+
+  #extended-bonus1, #extended-bonus1 h1, #extended-bonus1 h4{
+    align-items: center;
+    text-align: center;
+  }
+
+  #extended-bonus3, #extended-bonus3 h1, #extended-bonus3 h4{
+    align-items: center;
+    text-align: center;
+  }
+
+  #extended-bonus4, #extended-bonus4 h1, #extended-bonus4 h4{
+    align-items: center;
+    text-align: center;
+  }
+
+  #extended-bonus5, #extended-bonus5 h1, #extended-bonus5 h4{
+    align-items: center;
+    text-align: center;
+  }
+
+  #extended-img5 {
+    width: 100%;
+    height: 30vh;
+  }
+
+  #extended-label {
+    width: 60%;
+  }
 }
 
 @media (min-width: 768px) { /*Laptop*/
@@ -120,7 +149,7 @@
   }
 
   #btn-payment {
-    font-size: 2.5rem;
+    font-size: 2rem;
     width: 60%;
   }
 
@@ -129,7 +158,7 @@
   }
 
   #content {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   #content-point {
@@ -175,6 +204,72 @@
 
   #content-buy {
     font-size: 1.2rem;
+  }
+
+  .bg-dark {
+    position: relative;
+    height: 60vh;
+  }
+  
+  #extended-img1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 46%;
+  }
+
+  #extended-bonus1 {
+    margin-top: 10vh;
+  }
+
+  #extended-bg-3 {
+    height: 62vh;
+  }
+
+  #extended-img3 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+  }
+
+  #extended-bonus3 {
+    margin-top: 15vh;
+  }
+
+  #extended-img4 {
+    position: absolute;
+    top: 1;
+    right: 0;
+    bottom: 0;
+    width: 45%;
+  }
+
+  #extended-bonus4 {
+    margin-top: 15vh;
+  }
+
+  #extended-img5 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 55%;
+    height: 100%;
+  }
+
+  #extended-bonus5 {
+    margin-top: 15vh;
+  }
+
+  #title-card {
+    width: 60%;
+  }
+
+  #extended-label {
+    width: 40%;
   }
 
 }
