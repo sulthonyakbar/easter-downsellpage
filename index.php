@@ -254,7 +254,7 @@
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus" class="col-md-7 d-flex flex-column">
                     <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
-                        EXTENDED BONUS #2
+                        EXTENDED MODULE #2
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Coloring Book Bundle for Kids with Cover Books</h1>
                     <h4 class="mt-3 text-light">35 Set Of Ready To Publish Coloring Books</h4>
@@ -348,7 +348,7 @@
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus4" class="col-md-7 d-flex flex-column">
                     <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
-                        EXTENDED BONUS #4
+                        EXTENDED MODULE #4
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
                     <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
@@ -401,7 +401,7 @@
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus5" class="col-md-7 d-flex flex-column">
                     <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
-                        EXTENDED BONUS #5
+                        EXTENDED MODULE #5
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Easter Viral Videos</h1>
                     <h4 class="mt-3 text-light">35 Easter Viral Videos</h4>
